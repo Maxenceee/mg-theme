@@ -2,14 +2,18 @@
   "name": "maxence-gama-theme",
   "displayName": "Ocean Tokyo",
   "description": "Maxence Gama Theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "maxencegama",
-  "engines": {
-    "vscode": "^1.75.0"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maxenceee/mg-theme"
   },
   "categories": [
     "Themes"
   ],
+  "engines": {
+    "vscode": "^1.74.3"
+  },
   "contributes": {
     "themes": [
       {
@@ -20,4 +24,3 @@
     ]
   }
 }
-//wd3mmx3jrxganvs6t6spd6eojzq3xv42g2qaejo2omifx2yj6ppa

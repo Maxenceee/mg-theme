@@ -1,0 +1,23 @@
+{
+  "name": "maxence-gama-theme",
+  "displayName": "Ocean Tokyo",
+  "description": "Maxence Gama Theme",
+  "version": "0.0.1",
+  "publisher": "maxencegama",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Maxence Gama",
+        "uiTheme": "hc-black",
+        "path": "./themes/Maxence Gama-color-theme.json"
+      }
+    ]
+  }
+}
+//wd3mmx3jrxganvs6t6spd6eojzq3xv42g2qaejo2omifx2yj6ppa

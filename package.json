@@ -1,8 +1,8 @@
 {
   "name": "maxence-gama-theme",
-  "displayName": "Ocean Tokyo",
-  "description": "Maxence Gama Theme",
-  "version": "0.1.0",
+  "displayName": "Ocean Tokyo Dark",
+  "description": "Maxence Gama Dark Theme",
+  "version": "0.1.1",
   "publisher": "maxencegama",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "themes": [
       {
         "label": "Maxence Gama",
-        "uiTheme": "hc-black",
+        "uiTheme": "vs-dark",
         "path": "./themes/Maxence Gama-color-theme.json"
       }
     ]
